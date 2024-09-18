@@ -282,5 +282,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 > **Disclaimer**: Running large models like LLAMA 3.1 - 70B fp8 requires substantial computational resources. Ensure you have the necessary hardware, comply with the model's licensing terms, and adjust hyperparameters to prevent out-of-memory errors.
 
-```
  
