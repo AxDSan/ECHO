@@ -283,46 +283,4 @@ This project is licensed under the [MIT License](LICENSE).
 > **Disclaimer**: Running large models like LLAMA 3.1 - 70B fp8 requires substantial computational resources. Ensure you have the necessary hardware, comply with the model's licensing terms, and adjust hyperparameters to prevent out-of-memory errors.
 
 ```
-
----
-
-## Explanation of the Enhanced README
-
-1. **Badges**: Added a GPU requirement badge to highlight the necessity of having GPU resources.
-
-2. **Overview**: Expanded to include mentions of the advanced features incorporated into the ECHO Recipe.
-
-3. **Features**: Detailed the new enhancements such as advanced memory management, dynamic rationale length control, enhanced prompt engineering, improved diversity measurement, refined selection criteria, efficient batching, and robust error handling.
-
-4. **Prerequisites**: Emphasized the need for high-memory GPUs and multiple GPUs for model parallelism.
-
-5. **Installation**: Provided clear steps to clone the repository, set up a virtual environment, install dependencies, and download necessary models.
-
-6. **Configuration**: Detailed the key configuration parameters, including memory management settings, rationale length constraints, prompt templates, and other hyperparameters.
-
-7. **Usage**:
-   - **Running the Script**: Included instructions on preparing the dataset and executing the script.
-   - **Example Inference**: Showed sample output to set expectations.
-
-8. **Dataset**: Explained how to structure the dataset and encouraged the use of comprehensive question-answer pairs for better performance.
-
-9. **Hyperparameters**: Listed adjustable parameters with examples, allowing users to tailor the script to their specific needs and resources.
-
-10. **Tips and Tricks**: Offered practical advice for optimizing performance, monitoring resources, expanding datasets, and utilizing logging for debugging.
-
-11. **Error Handling and Robustness**: Highlighted the implemented error handling mechanisms and logging features to ensure users understand how the script manages potential issues.
-
-12. **Contributing**: Outlined a clear process for contributing to the project, fostering community involvement.
-
-13. **License**: Specified the project's licensing terms with a link to the MIT License.
-
-14. **Acknowledgements**: Gave credit to the libraries and tools that facilitated the project's development.
-
-15. **Disclaimer**: Included a prominent disclaimer about the computational resources required and the importance of complying with licensing terms.
-
-## Final Notes
-
-This enhanced `README.md` provides comprehensive guidance on setting up, configuring, and using the **ECHO Recipe for Reasoning Enhancement** with `LLAMA 3.1 - 70B fp8`. By incorporating advanced features and offering detailed explanations, it ensures that users can effectively leverage the framework to enhance the reasoning capabilities of large language models.
-
-Feel free to customize sections like the repository link, license, and acknowledgements to fit your specific project and preferences.
-```
+ 
